@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'topsisOm',         
   packages = ['topsisOm'],   
-  version = '0.1',      
+  version = '0.2',      
   license='MIT',       
   description = 'This package helps to get the topsis score from the given dataframe',   # Give a short description about your library
   author = 'Om Gupta',                   # Type in your name
