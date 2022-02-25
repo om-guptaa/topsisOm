@@ -8,7 +8,7 @@ setup(
   author = 'Om Gupta',                   # Type in your name
   author_email = 'omstringtheory@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/om-guptaa',   # Provide either the link to your github or to your website
-  download_url = 'hhttps://github.com/om-guptaa/topsisOm/archive/refs/tags/v_06.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/om-guptaa/topsisOm/archive/refs/tags/v_06.tar.gz',    # I explain this later on
   keywords = ['Topsis', 'Ranking'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
