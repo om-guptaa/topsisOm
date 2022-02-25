@@ -1,1 +1,1 @@
-from topsisOm.101903213 import topsis
+from 101903213 import *
